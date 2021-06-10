@@ -8,5 +8,4 @@ edition = "2018"
 
 [dependencies]
 anyhow = "1.0.41"
-ctrlc = "3.1.9"
 ping = "0.2.0"
